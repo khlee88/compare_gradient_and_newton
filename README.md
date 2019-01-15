@@ -1,5 +1,5 @@
 # compare gradient and newton
-compare gradient descent and newton method in regression model
+compare gradient descent and newton method in regression model <br>
 html page: https://khlee88.github.io/compare_gradient_and_newton/
 
 1. Overview
